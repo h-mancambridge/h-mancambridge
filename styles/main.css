@@ -1,0 +1,12 @@
+body
+{
+    font-family: "Verdana"; 
+    background-color: black;
+    font-size: 40
+}
+td, th
+{
+    color:lightblue;
+    background-color: grey;
+    font-size: 25px;
+}
